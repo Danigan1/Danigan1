@@ -1,5 +1,5 @@
 <h1>Hi, I'm Dan! <br/> 
-  <a >,your friendly neighborhood Cyber Specialist</a>
+  <a>your friendly neighborhood Cyber Specialist</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
