@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! <br/> <a href="https://www.linkedin.com/in/dan-mbaabu/">Cybersecurity Professional</a>
+<h1>Hi, I'm Dan! <br/> <a >Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
