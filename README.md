@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Cloud Detection Lab</b>
+- <b>System Admin Home Lab</b>
   - [click here](https://github.com/Danigan1/Azure-Cloud-Detection-Lab.git) 
 
 <h2>📄Certifications</h2>
