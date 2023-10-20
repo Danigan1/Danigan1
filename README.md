@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dan! <br/> 
-  <a>your friendly neighborhood Cyber Specialist</a>
+  <a>your friendly neighborhood IT professional</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Interesting Projects:</h2>
 
 - <b>System Admin Home Lab</b>
   - [click here](https://github.com/Danigan1/Azure-Cloud-Detection-Lab.git) 
