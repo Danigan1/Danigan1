@@ -3,11 +3,12 @@
 
 <h2>👨‍💻 Interesting Projects:</h2>
 
-- <b>Windows Home Lab</b>
-  - [click here](https://github.com/Danigan1/Azure-Cloud-Detection-Lab.git)
+<b>Windows Home Lab</b>
+[click here](https://github.com/Danigan1/Azure-Cloud-Detection-Lab.git)
  
-  - <b>Linux Home Lab</b>
-- [click here](https://github.com/Danigan1/Linux-Home-Lab.git)
+  <b>Linux Home Lab</b>
+  <br>
+ [click here](https://github.com/Danigan1/Linux-Home-Lab.git)
 
 <h2>📄Certifications</h2>
 
