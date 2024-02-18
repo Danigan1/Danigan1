@@ -7,7 +7,7 @@
   - [click here](https://github.com/Danigan1/Azure-Cloud-Detection-Lab.git)
  
   - <b>Linux Home Lab</b>
-  [click here](https://github.com/Danigan1/Linux-Home-Lab.git))
+- [click here](https://github.com/Danigan1/Linux-Home-Lab.git)
 
 <h2>📄Certifications</h2>
 
